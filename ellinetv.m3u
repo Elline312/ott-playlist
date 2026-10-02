@@ -330,7 +330,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/hitsmovies/default/index.mpd
 #EXTINF:-1 tvg-id="hits_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8BB8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",Hits HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2e8c4715a634f09b2187c6d3e9a5042:8b11760042654021997fd07a8a0b7acc
-https://ucdn.mediaquest.com.ph/bpk-tv/hits_hd1/default/index
+https://ucdn.mediaquest.com.ph/bpk-tv/hits_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="cg_hitsnow" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/68C2D95A-A2A4-4C2B-93BE-41893C61210C/0-16x9.jpg?width=1980" group-title="Cignal",Hits Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
